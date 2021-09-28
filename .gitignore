@@ -1,4 +1,6 @@
 ImGui.vcxproj
+bin/
+bin-int/
 
 ## OSX artifacts
 .DS_Store
